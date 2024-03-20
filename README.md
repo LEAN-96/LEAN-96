@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on RAG leveraging LlamaIndex & LangChain
+- 🌱 I’m currently learning Python and LLMs
 <!--
 **LEAN-96/LEAN-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
