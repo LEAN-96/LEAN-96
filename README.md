@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on RAG leveraging LlamaIndex & LangChain
-- 🌱 I’m currently learning Python and LLMs
+- 🔭 I’m currently working on RAG-Chatbots and Agents
+- 🌱 I’m currently learning Agentic Workflows
+-  I’m currently researching on Small Language Models and Multi-Agent Systems
 <!--
 **LEAN-96/LEAN-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
